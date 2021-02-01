@@ -1,0 +1,30 @@
+
+.main-message{height: auto;overflow: hidden;width: 1000px;margin: 8px auto;}
+.main-message>.left{float: left;width: 215px;}
+.main-message>.right{
+	min-height: 460px;height: auto;border: 1px solid#CCCCCC;width: 775px;
+	float: right;background: #fff url(../img/message.png)500px 60px no-repeat;
+}
+.message{margin-top: 50px;width: 775px;}
+.message ul{height: 40px;font-size: 13px;list-style: none;}
+.message ul li{height: 40px;line-height: 40px;float: left;}
+.message ul li.title{width: 150px;text-align: right;}
+.message ul li.title .must{color: red;}
+.message ul.ct{height: 110px;border: 1px ;}
+.message ul.ct .title{height: 110px;line-height: 100px;}
+.message ul.ct textarea{margin-top: 10px;}
+.message ul li input{height: 25px;width: 250px;}
+.message div{clear: both;}
+.message div{margin-left: 250px;}
+.main-contact{
+	height: auto;overflow: hidden;width: 1000px;margin: 8px auto;
+}
+.main-contact>.left{float: left;width: 215px;}
+.main-contact>.right{
+	min-height: 502px;height: auto;border: 1px solid #CCCCCC;width: 775px;
+	background: #fff url(../img/message.png)500px 60px no-repeat;float: right;
+}
+.main-contact>.right .contaca_banner{height: 212px;text-align: center;}
+.main-contact>.right .content{
+	padding: 20px;font-size: 14px;line-height: 25px;
+}

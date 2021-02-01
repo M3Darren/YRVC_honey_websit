@@ -1,0 +1,19 @@
+.main-product{height: auto;overflow:hidden;width: 1000px;margin: 8px auto;}
+.main-product>.left{float: left;width: 215px;}
+.main-product>.right{
+	min-height:382px;height: auto;border: 1px solid #CCCCCC;
+	width: 775px;float:right;background: #FFF;
+}
+.main-product>.right .content{margin-bottom: 10px;}
+.main-product>.right .content .probox{
+	float: left;width: 203px;height: 227px;margin-left: 40px;margin-top: 40px;
+	background: url(../img/pro_bg.jpg)center bottom no-repeat;
+}
+.main-product>.right .content .probox .thumbnail{
+	display: block;height: 177px;text-align:center;padding-top: 2px;
+	color: #000;
+}
+.main-product>.right .content .probox .title{
+	display: block;height: 45px;line-height: 40px;font-size: 12px;
+	text-align:center;color: #000;
+}

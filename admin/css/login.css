@@ -1,0 +1,19 @@
+body{background-color:#00B22D;}
+#form1{
+	width: 659px;height: 317px;padding-top: 150px;padding-left: 30px;
+	background:url(../img/loginbck.jpg)center center no-repeat;position: absolute;
+	top:50%;left:50%;margin-left:-330px;margin-top:-160px;background-size:650px 310px ;
+}
+#form1 .item{height: 50px;}
+#form1 .item .text{
+	width: 100px;height: 50px;line-height: 50px;
+	float: left;text-align: right;font-size: 14px;margin-left: 200px;
+}
+#form1 .item .inputbox{
+	height: 50px;float: left;margin-left: 10px;
+}
+#form1 .item .inputbox input{
+	height: 30px;line-height: 30;width: 227px;margin-top: 10px;
+}
+#form1 .item .inputbox input.authcode{width: 100px;}
+#form1 .submit{margin-top: 30px;padding-left: 350px;}

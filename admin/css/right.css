@@ -1,0 +1,28 @@
+
+.left_topbg {
+	BACKGROUND-IMAGE: url(../img/content-bg.gif); BACKGROUND-REPEAT: repeat-x
+}
+.left_bt {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #395a7b; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.left_bt2 {
+	LINE-HEIGHT: 25px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #333333; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.titlebt {
+	BACKGROUND-IMAGE: url(../img/top_bt.jpg); LINE-HEIGHT: 26px; TEXT-INDENT: 15px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+.left_txt {
+	LINE-HEIGHT: 25px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #666666; FONT-SIZE: 12px
+}
+
+
+.line_table {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+.sec1 {
+	BACKGROUND-IMAGE: url(../img/right_smbg.jpg); BORDER-BOTTOM: #b5d0d9 1px solid; BORDER-LEFT: #b5d0d9 1px solid; LINE-HEIGHT: 25px; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 12px; BORDER-TOP: #b5d0d9 1px solid; CURSOR: hand; BORDER-RIGHT: #b5d0d9 1px solid
+}
+.sec2 {
+	BORDER-BOTTOM: #e2e7ed 1px solid; BORDER-LEFT: #e2e7ed 1px solid; LINE-HEIGHT: 25px; BACKGROUND-COLOR: #e2e7ed; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 12px; BORDER-TOP: #e2e7ed 1px solid; CURSOR: hand; FONT-WEIGHT: bold; BORDER-RIGHT: #e2e7ed 1px solid
+}
+

@@ -1,0 +1,99 @@
+.main-about{
+	height: auto;
+	overflow: hidden;
+	width: 1000px;
+	margin:8px auto;
+}
+.main-about>.left{
+	float: left;
+	width: 215px;
+}
+.sidebar_common{
+	height: auto;
+	border: 1px solid #CCCCCC;
+	clear: both;
+	background: #fff;
+}
+.sidebar_common .cattitle{
+	height: 40px;
+	line-height: 40px;
+	border-bottom: 1px #CCCCCC solid;
+	font-family: "微软雅黑";
+	font-size: 15px;
+	font-weight: bold;
+	background: url(../img/icon-about.png) 20px center no-repeat;
+	padding-left: 55px;
+}
+.sidebar_common .catcontent{
+	height: auto;
+}
+.sidebar_common .catcontent .item{
+	height: 40px;
+	background: url(../img/line.png) center bottom no-repeat;
+}
+.sidebar_common .catcontent .item .left{
+	height: 24px;
+	width: 20px;
+	float: left;
+	margin-top: 8px;
+	margin-left: 45px;
+}
+.sidebar_common .catcontent .item a.right{
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	float: left;font-size: 14px;
+	color: #030303;
+	margin-left: 20px;
+}
+.sidebar_contact{
+	height: 250px;
+	border: #CCCCCC solid 1px;
+	margin-top: 8px;
+	background: #fff;
+}
+.sidebar_contact .cattitle{
+	height: 40px;
+	line-height: 40px;
+	border-bottom: #CCCCCC 1px solid ;
+	font-family: "微软雅黑";
+	font-size: 15px;
+	font-weight: bold;
+	background: url(../img/icon-contact.png) 20px center no-repeat;
+	padding-left: 55px;
+}
+.sidebar_contact .catcontent{
+	height: 210px;
+}
+.sidebar_contact .catcontent .item{
+	height: 32px;
+	line-height: 32px;
+	text-align: left;
+	padding-left: 15px;
+	font-size: 13px;
+	background: url(../img/line.png) center bottom no-repeat;
+}
+.main-about>.right{
+	min-height: 460px;
+	height: auto;
+	border: 1px solid #CCCCCC;
+	width: 775px;
+	float: right;
+	background: #FFFFFF;
+}
+.subnav{
+	height: 40px;
+	line-height: 40px;
+	border-bottom: 1px solid #CCCCCC;
+	padding-left: 10px;
+	font-size: 14px;
+}
+.subnav a{
+	color: #000;
+}
+.main-about>.right .content{
+	padding: 20px;
+	font-size: 15px;
+	line-height: 33px;
+	text-indent: 2em;
+}

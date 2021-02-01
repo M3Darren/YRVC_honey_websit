@@ -1,0 +1,14 @@
+.main-contact{
+	height: auto;overflow: hidden;width: 1000px;margin: 8px auto;
+}
+.main-contact>.left{float: left;width: 215px;}
+.main-contact>.right{
+	min-height: 502px;height: auto;border: 1px solid #CCCCCC;width: 775px;
+	background: #fff ;float:right;
+}
+.main-contact>.right .content_banner{height: 212px;text-align: center;}
+.main-contact>.right .content{
+	padding: 20px;font-size: 14px;line-height: 25px;
+}
+.a{background-image: url(../img/icon-bee.png);background-repeat: no-repeat;border-style: none none dotted none;border-width: 1px; margin-left: 40px;margin-top: 20px;text-align: center;}
+.b{background-image: url(../img/icon-about.png);background-repeat: no-repeat;margin-left: 10px;}
